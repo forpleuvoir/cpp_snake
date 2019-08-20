@@ -12,6 +12,7 @@ NODE food;
 void ChangeDir();
 void CreateFood(); 
 void Auto();
+void CreateFood();
 
 void DrawSnake()
 {
